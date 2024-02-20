@@ -1,0 +1,48 @@
+Term: 'cti', Count: 1
+Term: 'conference room', Count: 1
+Term: 'thousands of endpoints', Count: 1
+Term: 'higher education', Count: 1
+Term: 'customer experiences', Count: 1
+Term: 'corporate offices', Count: 1
+Term: 'videowall', Count: 1
+Term: 'cti (full disclosure, that’s my employer)', Count: 1
+Term: 'panasonic hd displays', Count: 1
+Term: 'immersive entertainment', Count: 1
+Term: 'https://www.cti.com/', Count: 1
+Term: 'source devices via wall plates', Count: 1
+Term: 'led displays', Count: 1
+Term: 'complex show coordination', Count: 1
+Term: 'education', Count: 1
+Term: 'find out more about', Count: 1
+Term: 'education', Count: 2
+Term: 'meeting comprehensibility', Count: 1
+Term: 'commercial av space', Count: 1
+Term: 'education campuses', Count: 1
+Term: 'education', Count: 3
+Term: 'increasing productivity', Count: 1
+Term: 'most display devices', Count: 1
+Term: 'just for education', Count: 1
+Term: 'conference rooms', Count: 1
+Term: 'broadcast', Count: 1
+Term: 'conference rooms', Count: 2
+Term: 'educational spaces', Count: 1
+Term: 'exciting events', Count: 1
+Term: 'office', Count: 1
+Term: 'governments', Count: 1
+Term: 'education', Count: 4
+Term: 'immersive video', Count: 1
+Term: 'house of worship', Count: 1
+Term: 'house of worship', Count: 2
+Term: 'education', Count: 5
+Term: 'meeting experience', Count: 1
+Term: 'conference rooms', Count: 3
+Term: 'educational facilities', Count: 1
+Term: 'meeting rooms', Count: 1
+Term: 'audiovisual information technology', Count: 1
+Term: 'hdmi over ip', Count: 1
+Term: 'worship', Count: 1
+Term: 'end-user’s lives', Count: 1
+Term: 'video conferencing', Count: 1
+Term: 'meeting room integration', Count: 1
+Term: 'new television concept', Count: 1
+Term: 'cti', Count: 2
